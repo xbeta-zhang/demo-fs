@@ -1,5 +1,10 @@
 # Flowershow Template 🌸
 
+使用 Flowershow 发布状态操作面板
+点击 Obsidian 侧边栏最左侧的🌱图标，这将打开 Flowershow 发布状态操作面板。在这里，你可以看到你的所有笔记的发布状态，包括已发布、已更改但未更新发布、尚未发布以及已从库中删除但在网上仍显示的笔记。
+
+你可以使用每个分类旁边的按钮来更新、发布或从你的网站上删除笔记。
+
 Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults.
 
 ## What is this template?
